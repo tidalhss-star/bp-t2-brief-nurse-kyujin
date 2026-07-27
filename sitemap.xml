@@ -13,12 +13,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brief.nurse-kyujin.online/blog-3.html</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brief.nurse-kyujin.online/notes.html</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -26,6 +20,12 @@
   </url>
   <url>
     <loc>https://brief.nurse-kyujin.online/blog-2.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://brief.nurse-kyujin.online/blog-3.html</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>

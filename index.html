@@ -1,92 +1,127 @@
 <!DOCTYPE html>
-<html lang="ko" data-theme="neon-void" data-build="a1b2c3d4">
+<html lang="ko">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="generator" content="custom-cms-x9q2">
-    <meta name="bpaas-design-system" content="brutalist-avantgarde">
-    <meta name="bpaas-design-theme" content="kr-neon-void">
-    <title>간호 지원 준비 — 이용의 끝에서 결정되는 품격 있는 마무리 가이드</title>
-    <meta name="description" content="간호 지원 준비를 위한 서류와 확인 항목. 업종별 정산 방식과 연장 처리, 이용 기록 관리에 대한 전문적인 정보 블로그입니다.">
-    <meta name="keywords" content="간호지원준비, 이용가이드, 정산방법, 정보블로그, 서류준비">
+    <meta name="bpaas-design-system" content="editorial-apple">
+    <meta name="bpaas-design-theme" content="kr-warm-grid">
+    <title>간호 지원 준비 — 업종별 용어와 실무적 확인 사항 정리</title>
+    <meta name="description" content="간호 지원을 준비하며 혼란스러운 전문 용어와 지역별 차이를 명확히 정리합니다. 방문 전 확인해야 할 핵심 항목과 불필요한 시행착오를 줄이는 가이드를 제공합니다.">
+    <meta name="keywords" content="간호 지원 준비, 업종별 용어 정리, 비즈니스클럽 가이드, 서비스 선택 기준">
     <link rel="canonical" href="https://brief.nurse-kyujin.online/">
     
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": "간호 지원 준비 가이드",
-      "author": { "@type": "Person", "name": "준비하는 관리자" },
-      "mainEntity": {
-        "@type": "FAQPage",
-        "mainEntity": [
-          { "@type": "Question", "name": "정산 방식을 미리 확인해야 하는 이유는 무엇인가요?", "acceptedAnswer": { "@type": "Answer", "text": "마지막 순간의 혼선을 방지하고 상호 간의 신뢰를 유지하기 위해서입니다. 서비스 종료 시점에 비용 체계를 명확히 인지하는 것이 깔끔한 마무리의 핵심입니다." } },
-          { "@type": "Question", "name": "연장이나 조기 종료는 어떻게 처리되나요?", "acceptedAnswer": { "@type": "Answer", "text": "상황에 따른 유연한 대응이 필요하며, 사전에 정해진 규칙에 따라 정산이 이루어집니다. 처음이라면 담당자에게 미리 규칙을 물어보셔도 무방합니다." } }
-        ]
+      "@type": "WebSite",
+      "name": "간호 지원 준비",
+      "url": "https://brief.nurse-kyujin.online",
+      "author": {
+        "@type": "Person",
+        "name": "현장 기록자 민준"
       }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "용어의 차이가 왜 중요한가요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "업종마다 기대하는 서비스의 범주가 다릅니다. 용어를 명확히 이해해야 본인이 원하는 조건에 맞는 환경을 정확히 판단할 수 있습니다."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "방문 전 서류 준비는 필수인가요?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "신뢰를 증명하는 최소한의 절차입니다. 준비된 서류는 불필요한 질문을 생략하게 하여 의사결정 시간을 단축해 줍니다."
+          }
+        }
+      ]
     }
     </script>
 
     <style>
-        :root { --primary: #000000; --secondary: #ffffff; --accent: #ff3b00; }
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { background: var(--primary); color: var(--secondary); font-family: 'Impact', system-ui, sans-serif; line-height: 1.2; overflow-x: hidden; }
-        header { padding: 48px; border-bottom: 4px solid var(--secondary); }
-        .x-img-xqr8 { font-size: 5rem; text-transform: uppercase; letter-spacing: -2px; }
-        section { padding: 80px 48px; border-bottom: 3px solid #333; }
-        .t-hero-ndml { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; }
-        .x-top-myuo { border: 4px solid var(--accent); padding: 32px; transform: rotate(-1deg); }
-        h2 { font-size: 3rem; margin-bottom: 2rem; color: var(--accent); }
-        p { font-family: sans-serif; font-weight: 300; font-size: 1.1rem; margin-bottom: 1.5rem; }
-        footer { padding: 48px; text-align: center; font-size: 0.8rem; opacity: 0.6; }
-        @media (max-width: 768px) { .t-hero-ndml { grid-template-columns: 1fr; } .x-img-xqr8 { font-size: 3rem; } }
+        :root { --primary: #2d2a26; --secondary: #faf8f5; --accent: #e07a5f; }
+        body { margin: 0; font-family: system-ui, sans-serif; background-color: var(--secondary); color: var(--primary); line-height: 1.6; }
+        .x-btn-e8mr { max-width: 760px; margin: 0 auto; padding: 0 20px; }
+        header { padding: 40px 0; border-bottom: 1px solid #ddd; display: flex; justify-content: space-between; align-items: center; }
+        nav ul { display: flex; list-style: none; padding: 0; gap: 20px; }
+        .t-grid-cwki { padding: 120px 0; border-bottom: 1px solid #ddd; }
+        .t-grid-cwki h1 { font-size: 3rem; font-weight: 300; margin-bottom: 20px; font-family: Georgia, serif; }
+        .n-body-bmx5::first-letter { font-size: 4rem; float: left; margin-right: 15px; line-height: 0.8; color: var(--accent); }
+        section { padding: 80px 0; border-bottom: 1px solid #eee; }
+        .v-body-51z8 { width: 100%; border-collapse: collapse; margin-top: 30px; }
+        .v-body-51z8 td, th { border: 1px solid #ddd; padding: 12px; }
+        footer { padding: 40px 0; text-align: center; font-size: 0.9rem; }
+        @media (max-width: 768px) { .t-grid-cwki h1 { font-size: 2rem; } }
     </style>
   <meta property="og:url" content="https://brief.nurse-kyujin.online/">
 </head>
-<body data-theme="neon-void" data-build="f8e7d6c5">
+<body>
 
-<header data-v="a1x9b2">
-    <h1 class="x-img-xqr8">간호 지원 준비</h1>
+<header class="x-btn-e8mr">
+    <div style="font-weight: bold; font-size: 1.2rem;">간호 지원 준비</div>
+    <nav>
+        <ul style="display: flex; list-style: none;">
+            <li style="order: 3;"><a href="#guide" style="color: inherit; text-decoration: none;">가이드</a></li>
+            <li style="order: 1;"><a href="#terms" style="color: inherit; text-decoration: none;">용어정리</a></li>
+            <li style="order: 2;"><a href="#faq" style="color: inherit; text-decoration: none;">FAQ</a></li>
+        </ul>
+    </nav>
 </header>
 
-<main>
-    <section id="intro" data-v="b2c3d4">
-        <h2>마지막 인상이 전부입니다</h2>
-        <p>많은 분이 시작에 집중하지만, 사실 모든 경험의 질은 '마무리'에서 결정됩니다. 정산, 기록, 그리고 다음을 위한 준비가 얼마나 체계적인지에 따라 당신의 평가는 완전히 달라집니다.</p>
+<main class="x-btn-e8mr">
+    <section class="t-grid-cwki">
+        <h1>간호 지원 준비의 본질</h1>
+        <p>어설픈 정보는 시간을 낭비하게 만듭니다. 우리는 정확한 언어로 소통하고, 의도를 명확히 하는 것부터 시작해야 합니다. 이곳은 불필요한 수식어를 걷어내고 실무적인 기준만을 제시합니다.</p>
     </section>
 
-    <section id="process" data-v="c3d4e5">
-        <div class="t-hero-ndml">
-            <article class="x-top-myuo" data-v="d4e5f6">
-                <h3>정산의 명확성</h3>
-                <p>금전적인 부분은 가장 예민하지만, 가장 확실해야 합니다. 업종별 정산 체계를 미리 파악하고 준비 서류를 갖추는 것은 상대에 대한 존중이자 본인을 보호하는 최소한의 장치입니다.</p>
-            </article>
-            <article data-v="e5f6g7">
-                <h3>유연한 종료 규칙</h3>
-                <p>연장이나 조기 종료는 당황스러운 순간이 아닙니다. 사전에 약속된 규칙을 아는 사람과 모르는 사람의 차이는 큽니다. 처음이라도 걱정 마세요. 물어보는 것은 당연한 권리입니다.</p>
-            </article>
-        </div>
+    <section id="terms">
+        <h2 class="n-body-bmx5">용어의 혼란을 정리하는 기준</h2>
+        <p>셔츠룸, 텐프로, 하이퍼블릭 같은 단어들이 난무하지만, 실상은 운영 방식의 차이일 뿐입니다. 중요한 것은 본인이 지원하려는 곳이 어떤 시스템으로 돌아가는지 이해하는 것입니다.</p>
+        <p>지역마다, 그리고 같은 업종이라도 세부 운영 방식은 다릅니다. '비즈니스클럽'과 '가라오케'는 표면적으로 비슷해 보이지만, 고객 응대 방식과 요구되는 매너의 결이 완전히 다릅니다. 이런 차이를 인지하고 본인의 성향과 맞는지 대조하는 것이 첫 번째 단계입니다.</p>
+        
+        <table class="v-body-51z8">
+            <tr><th>분류</th><th>핵심 포인트</th></tr>
+            <tr><td>하이퍼블릭</td><td>빠른 회전율과 시스템 중심</td></tr>
+            <tr><td>룸싸롱/텐카페</td><td>고객 응대 밀도와 매너 강조</td></tr>
+            <tr><td>풀싸롱/쩜오</td><td>체계화된 지원 및 서비스 표준</td></tr>
+        </table>
     </section>
 
-    <section id="faq" data-v="f6g7h8">
+    <section id="guide">
+        <h2>문의 전 체크해야 할 최소 어휘</h2>
+        <p>업체에 연락하기 전, 본인의 의사를 짧고 간결하게 전달하는 것이 가장 효율적입니다. "가능한가요?"라는 추상적인 질문 대신, 본인의 조건과 희망하는 근무 환경을 구체적으로 명시하세요.</p>
+        <p>준비해야 할 서류는 신분 확인과 업무 시작을 위한 최소한의 절차입니다. 이를 번거롭게 여기지 마십시오. 오히려 준비가 잘 된 지원자일수록 현장에서는 더 빠르게 적응하고 신뢰를 얻습니다. 자신의 경력과 목표를 단 세 문장으로 정리해 두는 것, 그것이 가장 값싼 예방입니다.</p>
+        <img src="placeholder.jpg" style="width: 100%; height: auto; margin: 20px 0;" alt="graphic_element_9921">
+    </section>
+
+    <section id="faq">
         <h2>자주 묻는 질문</h2>
-        <div class="k-main-2sb5-item">
-            <h3>Q. 정산 방식을 미리 확인해야 하는 이유는 무엇인가요?</h3>
-            <p>A. 마지막 순간의 혼선을 방지하고 상호 간의 신뢰를 유지하기 위해서입니다. 서비스 종료 시점에 비용 체계를 명확히 인지하는 것이 깔끔한 마무리의 핵심입니다.</p>
+        <div style="margin-bottom: 30px;">
+            <p><strong>Q: 처음인데 어떤 업종을 선택해야 할까요?</strong></p>
+            <p>A: 본인의 성향이 시스템 중심인지, 대화 중심인지부터 파악하십시오. 단순히 급여가 높은 곳보다는 본인이 편안함을 느끼는 환경이 장기적인 근무에 유리합니다.</p>
         </div>
-        <div class="k-main-2sb5-item">
-            <h3>Q. 연장이나 조기 종료는 어떻게 처리되나요?</h3>
-            <p>A. 상황에 따른 유연한 대응이 필요하며, 사전에 정해진 규칙에 따라 정산이 이루어집니다. 처음이라면 담당자에게 미리 규칙을 물어보셔도 무방합니다.</p>
+        <div>
+            <p><strong>Q: 지역별로 차이가 큰가요?</strong></p>
+            <p>A: 지역마다 주력하는 서비스 형태가 다릅니다. 강남권과 외곽 지역은 운영 방식과 손님들의 매너 수준에서 확연한 차이를 보이니 이를 반드시 고려해야 합니다.</p>
         </div>
     </section>
 </main>
 
 <footer>
-    <div class="x-hero-7jen" data-v="g7h8i9">
-        <p><strong>준비하는 관리자</strong> | 5년간 다양한 환경의 서류 절차와 사후 관리를 연구해온 정보 가이드입니다.</p>
-    </div>
-    <p>&copy; 2024 간호 지원 준비 정보 블로그. All rights reserved.</p>
+    <div style="margin-bottom: 10px;">작성자: 현장 기록자 민준 | 5년간의 로컬 가이드 경험을 바탕으로 정리합니다.</div>
+    <p>&copy; 2024 간호 지원 준비. All rights reserved.</p>
 </footer>
 
+<!-- cache_id:a7b8c9d0e1f2 -->
+<div class="cache-marker" style="opacity:0;height:0;overflow:hidden">83746291</div>
 </body>
 </html>
