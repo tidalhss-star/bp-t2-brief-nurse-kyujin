@@ -1,20 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[서울 간호 지원 준비]]></title>
+  <title><![CDATA[정보 블로그]]></title>
   <link>https://brief.nurse-kyujin.online</link>
-  <description><![CDATA[서울 정보 블로그 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Mon, 27 Jul 2026 13:17:23 GMT</pubDate>
-  <lastBuildDate>Mon, 27 Jul 2026 13:17:23 GMT</lastBuildDate>
+  <description><![CDATA[정보 블로그 - 간호 지원 준비 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Fri, 07 Aug 2026 15:19:59 GMT</pubDate>
+  <lastBuildDate>Fri, 07 Aug 2026 15:19:59 GMT</lastBuildDate>
   <atom:link href="https://brief.nurse-kyujin.online/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[서울 간호 지원 준비 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://brief.nurse-kyujin.online/</link>
-      <guid isPermaLink="true">https://brief.nurse-kyujin.online/</guid>
-      <description><![CDATA[서울 정보 블로그 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Mon, 27 Jul 2026 13:17:23 GMT</pubDate>
+      <title><![CDATA[서류 뭉치 속 누락된 페이지가 말해주는 것: 간호 지원 준비의 본질과 숨겨진 코드들]]></title>
+      <link>https://brief.nurse-kyujin.online/posts/field_note-001-1dni52a.html</link>
+      <guid isPermaLink="true">https://brief.nurse-kyujin.online/posts/field_note-001-1dni52a.html</guid>
+      <description><![CDATA[1972년 청문회 마이크로필름을 보관소 캐비닛에서 꺼냈을 때, 내 손바닥에 닿은 건 차가운 먼지뿐이었다. 처음 사흘간은 엉뚱한 파일 색인만 뒤적이며 완전히 삽질을 했다. 공식 인덱스 체계가 완벽할 것이라는 어리석은 믿음이 부른 시간 낭비였다. 정보 분석가랍시고 꺼드럭거]]></description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[1972년의 사라진 페이지들이 간호 지원 준비에 주는 섬뜩한 교훈]]></title>
+      <link>https://brief.nurse-kyujin.online/posts/guide-005-g2olk3.html</link>
+      <guid isPermaLink="true">https://brief.nurse-kyujin.online/posts/guide-005-g2olk3.html</guid>
+      <description><![CDATA[왜 1972년 의회 청문회 기록에서 600번대 후반 서브프로젝트의 인덱스만 유독 잉크가 번진 것처럼 지워져 있었을까? 이건 단순한 기록 누락이 아니다. 당시 분석관들의 책상 위에는 공식 기록에는 절대 등장하지 않는, 하지만 현장에서는 철저히 집행되던 세 가지 코드명이 ]]></description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[간호 지원 준비, 72년의 미제 서브프로젝트에서 배우는 치명적 데이터 편향]]></title>
+      <link>https://brief.nurse-kyujin.online/posts/major_compare-002-1te9ce3.html</link>
+      <guid isPermaLink="true">https://brief.nurse-kyujin.online/posts/major_compare-002-1te9ce3.html</guid>
+      <description><![CDATA[1972년 의회 청문회 기록을 파고들다 보면, 묘하게 누락된 3개의 서브프로젝트가 눈에 띕니다. 코드명은 각각 'Project Bluebird', 'Project Artichoke', 그리고 'Project Chatter'였죠. 이들의 목적은 인간 행동의 물리적 제어와]]></description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[유니콘이 짓밟은 릭 데커드의 자존심, 그리고 간호 지원 준비의 역설]]></title>
+      <link>https://brief.nurse-kyujin.online/posts/myth-004-1qkrsfx.html</link>
+      <guid isPermaLink="true">https://brief.nurse-kyujin.online/posts/myth-004-1qkrsfx.html</guid>
+      <description><![CDATA[어두운 복도 끝에서 가프가 남긴 종이 접기 유니콘을 발견한 릭 데커드의 표정, 그건 단순히 놀라움이 아니라 자기 정체성이 무너져 내리는 찰나의 붕괴였습니다. 보통 사람들은 이걸 '누가 내 기억을 알고 있나'라는 미스터리로 소비하지만, 사실 이건 리들리 스콧이 심어놓은 ]]></description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[나이키 SB 던크 파리의 진실, 가짜 판별보다 무서운 건 기억의 왜곡이다]]></title>
+      <link>https://brief.nurse-kyujin.online/posts/qa-003-b794a0.html</link>
+      <guid isPermaLink="true">https://brief.nurse-kyujin.online/posts/qa-003-b794a0.html</guid>
+      <description><![CDATA[대부분의 수집가들이 2003년형 SB Dunk Low Paris의 캔버스 텍스처를 숭배할 때, 정작 내부자들은 2021년 레트로판에서 발견되는 미묘한 '스티치 밀도'의 불균형을 보며 헛웃음을 짓지. 나이키 사무실 책상 밑 서랍 깊숙이 숨겨뒀던 미발매 샘플을 꺼내 보던 ]]></description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
